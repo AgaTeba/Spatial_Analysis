@@ -1,0 +1,10 @@
+Copyright (c) 2026 [Agnieszka Trzciałkowska]
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license. 
+This means that you are free to copy and redistribute the material in any medium or format and adapt the material, 
+provided that you give appropriate credit and use it solely for non-commercial purposes.
+
+
+Copyright (c) 2026 [Agnieszka Trzciałkowska]
+Ten projekt jest udostępniony na licencji Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). 
+Oznacza to, że możesz kopiować i rozpowszechniać ten materiał w dowolnym formacie oraz tworzyć na jego bazie opracowania, 
+pod warunkiem podania autorstwa i używania go wyłącznie w celach niekomercyjnych.
